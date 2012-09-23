@@ -1,0 +1,36 @@
+    1  dir
+    2  cat
+    3  ls
+    4  bundle install
+    5  rails s
+    6  ls
+    7  ls -a
+    8  .gitignore
+    9  a .gitignore
+   10  open .gitignore
+   11  cat .gitignore 
+   12  aptana
+   13  AptanaStudio3.exe .gitignore 
+   14  alias aptanastudio.exe ap
+   15  alias AptanaStudio3.exe ap
+   16  set alias AptanaStudio3.exe ap
+   17  ap .gitignore 
+   18  ap
+   19  git init
+   20  git add .
+   21  git statussskkkkl
+   22  git status
+   23  git commit -m "initial commit"
+   24  git checkout -b modify-REAME
+   25  git mv README.rdoc README.md
+   26  AptanaStudio3.exe README.md 
+   27  git status
+   28  git commit -a -m "imrove README"
+   29  history
+   30  git checkout master
+   31  git merge modify-README
+   32  git merge modify-REAME
+   33  git branch -d modify-REAME
+   34  gem install heroku
+   35  cat history
+   36  history > video1.txt
